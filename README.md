@@ -116,6 +116,7 @@ The Laplacian of Gaussian detector identifies blob-like structures by:
 
 ## 👥 Authors
 
+- **Pablo** - [GitHub Profile](https://github.com/Pablo-H-H/)
 - **Eric** - [GitHub Profile](https://github.com/EricPrz)
 
 ## 📄 License
